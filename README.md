@@ -152,9 +152,9 @@ Or you can use services like Render, Netlify to deploy it.
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
-👤 **Mukama Steven**
+👤 **Nezerwa Eligrand**
 
 - GitHub: [@Nezerwa](https://github.com/Nezerwa)
 - LinkedIn: [@eligrand nezerwa](https://https://www.linkedin.com/in/eligrand-nezerwa/)
