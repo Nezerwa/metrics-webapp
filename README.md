@@ -177,8 +177,6 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Original design idea by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on Behance.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
