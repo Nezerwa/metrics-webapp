@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://splendorous-dieffenbachia-490882.netlify.app)
 - [Loom Video]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
