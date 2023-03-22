@@ -156,8 +156,8 @@ Or you can use services like Render, Netlify to deploy it.
 
 👤 **Mukama Steven**
 
-- GitHub: [@stevenmukama](https://github.com/Nezerwa)
-- LinkedIn: [@Steven Mukama](https://www.linkedin.com/in/stevenmukama/)
+- GitHub: [@Nezerwa](https://github.com/Nezerwa)
+- LinkedIn: [@eligrand nezerwa](https://https://www.linkedin.com/in/eligrand-nezerwa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
