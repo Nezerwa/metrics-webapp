@@ -165,7 +165,7 @@ Or you can use services like Render, Netlify to deploy it.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Nezerwa/metrics-webapp/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,6 +176,8 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+Original design idea by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on Behance.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
