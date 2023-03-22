@@ -64,8 +64,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
-- [Loom Video]()
+- [Live Demo Link](https://metrics--silly-panda-eeb68a.netlify.app/)
+- [Loom Video](https://www.loom.com/share/d6e87308921a45f19eb1d275e7f0e195)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ Clone this repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/Nezerwa/metrics-webapp.git
+$ git clone https://github.com/stevenmukama/react-capstone.git
 ```
 
 ### Usage
@@ -156,8 +156,8 @@ Or you can use services like Render, Netlify to deploy it.
 
 👤 **Mukama Steven**
 
-- GitHub: [@Nezerwa](https://github.com/Nezerwa)
-- LinkedIn: [@eligrand nezerwa](https://https://www.linkedin.com/in/eligrand-nezerwa/)
+- GitHub: [@stevenmukama](https://github.com/stevenmukama)
+- LinkedIn: [@Steven Mukama](https://www.linkedin.com/in/stevenmukama/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,6 +176,8 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Original design idea by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) on Behance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
